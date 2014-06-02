@@ -8,3 +8,4 @@ AncientScars
 #### Changelog:
 
 1. Added initial files to repository  
+2. Created Stephen's branch
