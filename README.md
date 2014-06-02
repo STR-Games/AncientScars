@@ -8,3 +8,5 @@ AncientScars
 #### Changelog:
 
 1. Added initial files to repository  
+
+2. Added Rick's branch to repository
